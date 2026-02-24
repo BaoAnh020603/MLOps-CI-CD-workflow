@@ -6,7 +6,7 @@
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub--Actions-black)](https://github.com/features/actions)
 
 > **I’d like to share an automated MLOps CI/CD workflow that provisions temporary AI environments the moment a Pull Request (PR) is opened.**
-
+file:///C:/Users/ADMIN/Desktop/Downloads/Ephemeral%20MLOps%20Workflow%20%E2%80%93%20Temporary%20AI%20Environment%20per%20Pull%20Request.drawio.svg
 ---
 
 ## 📌 1. Problem Statement: The Challenges of Traditional Staging
