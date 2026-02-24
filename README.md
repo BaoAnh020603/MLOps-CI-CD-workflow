@@ -2,14 +2,15 @@
 
 [![MLOps](https://img.shields.io/badge/MLOps-Architecture-blueviolet)](https://github.com/your-username/your-repo)
 [![AWS](https://img.shields.io/badge/AWS-SageMaker-orange)](https://aws.amazon.com/sagemaker/)
-[![Terraform](https://img.shields.io/badge/Infrastructure-as-Code-blue)](https://www.terraform.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure--as--Code-blue?logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub--Actions-black)](https://github.com/features/actions)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 > **An automated MLOps CI/CD workflow that provisions temporary, isolated AI environments the moment a Pull Request is opened — bridging the gap between model development and production readiness while maintaining strict cost control.**
 
 ---
-
+<p align="center">
+  <img src="file:///C:/Users/ADMIN/Desktop/Downloads/Ephemeral%20MLOps%20Workflow%20%E2%80%93%20Temporary%20AI%20Environment%20per%20Pull%20Request.drawio.svg" alt="MLOps Architecture" width="100%">
+</p>
 ## 📋 Table of Contents
 
 - [The Problem](#-1-the-problem-static-staging-bottleneck)
@@ -245,26 +246,3 @@ After Ephemeral Environments:
 ```
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue first to discuss what you'd like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
-
----
-
-<p align="center">
-  <strong>Moving from static to ephemeral AI environments is a game-changer for modern MLOps teams.</strong><br>
-  A sandbox for every feature. Zero environment drift. Costs aligned with development activity.
-</p>
