@@ -9,7 +9,7 @@
 
 ---
 <p align="center">
-  <img src="file:///C:/Users/ADMIN/Desktop/Downloads/Ephemeral%20MLOps%20Workflow%20%E2%80%93%20Temporary%20AI%20Environment%20per%20Pull%20Request.drawio.svg" alt="MLOps Architecture" width="100%">
+  <img src="architecture.svg" alt="MLOps Architecture" width="100%">
 </p>
 ## 📋 Table of Contents
 
